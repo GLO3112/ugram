@@ -24,7 +24,14 @@ Chaque équipe se verra offrir un nom de domaine payé par les enseignants. Il s
 
 ## Développement
 
-Les étudiants devront développer le frontend de l'application en _TypeScript_. Le backend peut être développé en _Java_ ou en _NodeJs_, au choix. Les étudiants sont invités à se procurer [WebStorm](https://www.jetbrains.com/webstorm/) ainsi que [Eclipse](http://www.eclipse.org/downloads) ou [IntelliJ](https://www.jetbrains.com/idea) pour le développement _Java_. Les étudiants auront des dépôts Git fournis par les enseignants pour leurs projets.
+Les étudiants devront développer le frontend de l'application en _TypeScript_. Le backend peut être développé en _Java_ ou en _NodeJs_, au choix. Les étudiants sont invités à se procurer [WebStorm](https://www.jetbrains.com/webstorm/) ainsi que [Eclipse](http://www.eclipse.org/downloads) ou [IntelliJ](https://www.jetbrains.com/idea) pour le développement _Java_. Les étudiants auront des dépôts Git fournis par les enseignants pour leurs projets. 
+
+Pour le frontend, les technos suivantes *doivent* être utilisées:
+* [TypeScript](https://www.typescriptlang.org/)
+* [SASS](http://sass-lang.com/) ou [LESS](http://lesscss.org/) ou [PostCSS](http://postcss.org/)
+* [Gulp](http://gulpjs.com/)
+
+Pour le backend, les technologies sont un peu plus libres mais doivent s'intégrer avec AWS si applicable.
 
 ## _Starter Packs_
 
