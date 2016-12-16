@@ -1,6 +1,6 @@
 # ugram
 
-ugram est le dépôt contenant toutes les ressources nécessaires à la réalisation du projet de session du cours Développment d'applications web avancé. Le projet est réalisé en équipe de 4 à 6 et comporte 3 livrables.
+ugram est le dépôt contenant toutes les ressources nécessaires à la réalisation du projet de session du cours Développment d'applications web avancé. Le projet est réalisé en équipe de 4 à 6 et comporte 3 livrables. Les étudiants auront à réaliser le frontend et le backend de l'application.
 
 Il est bien important de lire les pages suivantes:
 
@@ -21,3 +21,14 @@ Chaque équipe devra posséder un compte AWS Free. Voir les détails [ici] (http
 ## Noms de domaine
 
 Chaque équipe se verra offrir un nom de domaine payé par les enseignants. Il sera de la responsabilité de l'équipe de fournir l'adresse nécessaire aux enseignants pour créer l'entrée CNAME. Voir plus de détails dans la section [Remises] (https://github.com/GLO3112/ugram/blob/master/Remises.md) pour chaque livrable.
+
+## Développement
+
+Les étudiants devront développer le frontend de l'application en _TypeScript_. Le backend peut être développé en _Java_ ou en _NodeJs_, au choix. Les étudiants sont invités à se procurer [WebStorm](https://www.jetbrains.com/webstorm/) ainsi que [Eclipse](http://www.eclipse.org/downloads) ou [IntelliJ](https://www.jetbrains.com/idea) pour le développement _Java_. Les étudiants auront des dépôts Git fournis par les enseignants pour leurs projets.
+
+## _Starter Packs_
+
+Afin de bien commencer le projet, les enseignants fournissent des _starter packs_ avec les dépendances minimales nécessaires. À vous de choisir la techno qui vous plait!
+
+* [frontend-starter-packs](https://github.com/GLO3112/frontend-starter-packs)
+* [backend-starter-packs](https://github.com/GLO3112/backend-starter-packs)
