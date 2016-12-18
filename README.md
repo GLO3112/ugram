@@ -22,7 +22,7 @@ Chaque équipe devra posséder un compte AWS Free. Voir les détails [ici] (http
 
 ## Noms de domaine
 
-Chaque équipe se verra offrir un nom de domaine payé par les enseignants. Il sera de la responsabilité de l'équipe de fournir l'adresse nécessaire aux enseignants pour créer l'entrée CNAME. Voir plus de détails dans la section [Remises] (https://github.com/GLO3112/ugram/blob/master/Remises.md) pour chaque livrable.
+Chaque équipe se verra offrir un nom de domaine payé par les enseignants pour le livrable final. Il sera de la responsabilité de l'équipe de fournir l'adresse nécessaire aux enseignants pour créer l'entrée CNAME. Voir plus de détails dans la section [Remises] (https://github.com/GLO3112/ugram/blob/master/Remises.md) pour chaque livrable.
 
 ## Développement
 
