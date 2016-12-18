@@ -14,6 +14,8 @@ L'API est fournie pour le livrable 1 et disponible à l'adresse suivante: _TBD_
 
 La documentation de l'API est disponible à l'adresse suivante: _TBD_
 
+L'API supporte également un exemple de _Login with Facebook_, à voir ici: _TBD_
+
 ## Compte AWS
 
 Chaque équipe devra posséder un compte AWS Free. Voir les détails [ici] (https://aws.amazon.com/free/). Il est important de prendre conscience des limitations que le compte Free offre. Les enseignants se dégagent de tout coût supplémentaire entrainé par le dépassement de ces limites.
