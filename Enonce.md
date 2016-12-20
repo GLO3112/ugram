@@ -1,6 +1,6 @@
 # Énoncé du projet de session
 
-Le projet de session consiste à développer une application web similaire à Instagram.  Les étudiants devront développer les parties client ET serveur de l'application. Il est très important pour les étudiants de lire les sections [Remises](https://github.com/GLO3112/ugram/blob/master/Remises.md) et [Grille de correction](https://docs.google.com/spreadsheets/d/1C52Qwlf5l4wu_2_SGlAbJ6PKlXMl4jJfihJuSchRRSM). Les remises seront passablement différentes des autres cours!
+Le projet de session consiste à développer une application web similaire à [Instagram](https://www.instagram.com).  Les étudiants devront développer les parties client ET serveur de l'application. Il est très important pour les étudiants de lire les sections [Remises](https://github.com/GLO3112/ugram/blob/master/Remises.md) et [Grille de correction](https://docs.google.com/spreadsheets/d/1C52Qwlf5l4wu_2_SGlAbJ6PKlXMl4jJfihJuSchRRSM). Les remises seront passablement différentes des autres cours!
 
 Le projet doit être fait en équipe de 4 à 6 étudiants. L’équipe doit utiliser les dépôts GitHub et les _starter packs_ fournis par les enseignants. L'application doit être réalisée en *anglais*. 
 
