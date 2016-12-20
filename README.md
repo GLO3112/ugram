@@ -31,7 +31,7 @@ Les étudiants devront développer le frontend de l'application en _TypeScript_.
 Pour le frontend, les technos suivantes *doivent* être utilisées:
 * [TypeScript](https://www.typescriptlang.org/)
 * [SASS](http://sass-lang.com/) ou [LESS](http://lesscss.org/) ou [PostCSS](http://postcss.org/)
-* [Gulp](http://gulpjs.com/)
+* [Gulp](http://gulpjs.com/) et/ou [Webpack](https://webpack.github.io/)
 
 Pour le backend, les technologies sont un peu plus libres mais doivent s'intégrer avec AWS si applicable.
 
