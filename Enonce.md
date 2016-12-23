@@ -30,6 +30,7 @@ Les fonctionnalités suivantes devront être implémentées:
 * L'usager doit pouvoir supprimer une de ses images.
 * L'usager doit pouvoir consulter ses images.
 * L'usager doit pouvoir consulter une de ses images en particulier.
+* L'usager doit pouvoir consulter une liste d'images ordonnées par date, tout usager confondu.
 
 ## Livrable 2
 
