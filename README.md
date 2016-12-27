@@ -14,7 +14,7 @@ L'API est fournie pour le livrable 1 et disponible à l'adresse suivante: _TBD_
 
 La documentation de l'API est disponible à l'adresse suivante: _TBD_
 
-L'API supporte également un exemple de _Login with Facebook_, à voir ici: _TBD_
+L'API supporte également un exemple de _Login with Facebook_, à voir ici: _TBD_. À noter que certaines requêtes sur l'API nécessitent d'être authentifiées. Pour le livrable 1, votre application doit utiliser notre page de login pour ces appels.
 
 ## Compte AWS
 
