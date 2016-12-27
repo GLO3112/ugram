@@ -14,12 +14,14 @@ Les fonctionnalités suivantes devront être implémentées:
 * L'usager doit pouvoir consulter son profil usager.
  * Photo de profil
  * Nom d'usager
+ * Prénom/Nom
  * Email
+ * Numéro de téléphone
  * Date d'inscription
 * L’usager doit pouvoir éditer son profil usager.
- * Photo de profil
- * Nom d'usager
+ * Prénom/Nom
  * Email
+ * Numéro de téléphone
 * L'usager doit pouvoir consulter la liste des usagers.
 * L'usager doit pouvoir consulter le profil d'un usager ainsi que ses images.
 * L'usager doit pouvoir téléverser une image avec les champs suivants.
