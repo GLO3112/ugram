@@ -10,11 +10,13 @@ Il est bien important de lire les pages suivantes:
 
 ## API livrable 1
 
-L'API est fournie pour le livrable 1 et disponible à l'adresse suivante: _TBD_
+L'API est fournie pour le livrable 1 et disponible à [l'adresse suivante](http://api.ugram.net/).
 
-La documentation de l'API est disponible à l'adresse suivante: _TBD_
+La documentation de l'API est disponible à [l'adresse suivante](http://api.ugram.net/docs).
 
-L'API supporte également un exemple de _Login with Facebook_, à voir ici: _TBD_. À noter que certaines requêtes sur l'API nécessitent d'être authentifiées. Lors de votre première utilisation, vous devrez vous enregistrer. Vous serez redirigé à /?token=SOMETHING. **NOTEZ BIEN LA VALEUR DE CE TOKEN!** Il devra être utilisé pour les requêtes authentifiées, dans le _header_ Authorization sous la forme _Bearer SOMETHING_.
+L'API supporte également un exemple de _Login with Facebook_, à voir [ici](http://api.ugram.net/login). À noter que certaines requêtes sur l'API nécessitent d'être authentifiées. Lors de votre première utilisation, vous devrez vous enregistrer. Vous serez redirigé à /?token=SOMETHING. **NOTEZ BIEN LA VALEUR DE CE TOKEN!** Il devra être utilisé pour les requêtes authentifiées, dans le _header_ Authorization sous la forme _Bearer SOMETHING_.
+
+Finalement, il est possible de voir un exemple de formulaire d'upload d'images à [l'adresse suivante](http://api.ugram.net/test/upload).
 
 ## Compte AWS
 
