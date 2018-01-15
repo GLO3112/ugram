@@ -4,9 +4,9 @@ ugram est le dépôt contenant toutes les ressources nécessaires à la réalisa
 
 Il est bien important de lire les pages suivantes:
 
-* [Énoncé] (https://github.com/GLO3112/ugram/blob/master/Enonce.md)
-* [Remises] (https://github.com/GLO3112/ugram/blob/master/Remises.md)
-* [Grille de correction] (https://docs.google.com/spreadsheets/d/1C52Qwlf5l4wu_2_SGlAbJ6PKlXMl4jJfihJuSchRRSM/edit?usp=sharing)
+* [Énoncé](https://github.com/GLO3112/ugram/blob/master/Enonce.md)
+* [Remises](https://github.com/GLO3112/ugram/blob/master/Remises.md)
+* [Grille de correction](https://docs.google.com/spreadsheets/d/1C52Qwlf5l4wu_2_SGlAbJ6PKlXMl4jJfihJuSchRRSM/edit?usp=sharing)
 
 ## API livrable 1
 
@@ -20,11 +20,11 @@ Finalement, il est possible de voir un exemple de formulaire d'upload d'images �
 
 ## Compte AWS
 
-Chaque équipe devra posséder un compte AWS Free. Voir les détails [ici] (https://aws.amazon.com/free/). Il est important de prendre conscience des limitations que le compte Free offre. Les enseignants se dégagent de tout coût supplémentaire entrainé par le dépassement de ces limites.
+Chaque équipe devra posséder un compte AWS Free. Voir les détails [ici](https://aws.amazon.com/free/). Il est important de prendre conscience des limitations que le compte Free offre. Les enseignants se dégagent de tout coût supplémentaire entrainé par le dépassement de ces limites.
 
 ## Noms de domaine
 
-Chaque équipe se verra offrir un nom de domaine payé par les enseignants pour le livrable final. Il sera de la responsabilité de l'équipe de fournir l'adresse nécessaire aux enseignants pour créer l'entrée CNAME. Voir plus de détails dans la section [Remises] (https://github.com/GLO3112/ugram/blob/master/Remises.md) pour chaque livrable.
+Chaque équipe se verra offrir un nom de domaine payé par les enseignants pour le livrable final. Il sera de la responsabilité de l'équipe de fournir l'adresse nécessaire aux enseignants pour créer l'entrée CNAME. Voir plus de détails dans la section [Remises](https://github.com/GLO3112/ugram/blob/master/Remises.md) pour chaque livrable.
 
 ## Développement
 
