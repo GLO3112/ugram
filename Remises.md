@@ -28,7 +28,7 @@ Il existe plusieurs possibilités de remise, mais la méthode proposée en est u
 * Le serveur devrait être déployé dans Amazon Elastic Beanstalk et contenir le fichier _index.html_. Voir instructions et exemples [ici](https://aws.amazon.com/documentation/elastic-beanstalk/). Vous devrez aussi configurer potentiellement une base de données avec RDS et exposer vos logs dans CloudWatch.
 * Le code client (JS, CSS) devrait tout de même être déployé dans Amazon S3, et le fichier index.html devrait simplement pointer dessus.
 
-Le lien de l'application Beanstalk devra être inclus dans le README de la branche de release. Le site *ne devra aucunement être modifié* après la date de remise. Il est donc recommendé de vous faire 2 environnments Beanstalk (development/production) afin de ne pas interférer.
+Le lien de l'application Beanstalk devra être inclus dans le README de la branche de release. Le site *ne devra aucunement être modifié* après la date de remise. Il est donc recommendé de vous faire 2 environnements Beanstalk (development/production) afin de ne pas interférer.
 
 ## Livrable 3
 
@@ -36,6 +36,6 @@ Le livrable 3 consiste en une remise de client et serveur.
 
 La remise est sensiblement identique au livrable 2. Par contre, dans le README, vous devrez également inclure un (des) lien(s) vers vos _dashboards_ Google Analytics que les enseignants pourront consulter. Vous devrez également indiquer quelles fonctionnalités additionnelles vous avez choisi et le fonctionnement de leur implémentation respective.
 
-Le lien de l'application Beanstalk devra être inclus dans le README de la branche de release. Le site *ne devra aucunement être modifié* après la date de remise. Il est donc recommendé de vous faire 2 environnments Beanstalk (development/production) afin de ne pas interférer.
+Le lien de l'application Beanstalk devra être inclus dans le README de la branche de release. Le site *ne devra aucunement être modifié* après la date de remise. Il est donc recommendé de vous faire 2 environnements Beanstalk (development/production) afin de ne pas interférer.
 
 Pour le livrable 3, les enseignants fourniront des noms de domaine et feront une association avec le lien de votre Beanstalk afin de vous permettre d'exposer une "vraie" application. Pratique pour un stage :)
