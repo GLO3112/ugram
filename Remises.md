@@ -25,7 +25,7 @@ Le livrable 2 consiste en une remise de client et serveur.
 
 Il existe plusieurs possibilités de remise, mais la méthode proposée en est une hybride.
 
-* Le serveur devrait être déployé dans Amazon Elastic Beanstalk et contenir le fichier _index.html_. Voir instructions et exemples [ici] (https://aws.amazon.com/documentation/elastic-beanstalk/). Vous devrez aussi configurer potentiellement une base de données avec RDS et exposer vos logs dans CloudWatch.
+* Le serveur devrait être déployé dans Amazon Elastic Beanstalk et contenir le fichier _index.html_. Voir instructions et exemples [ici](https://aws.amazon.com/documentation/elastic-beanstalk/). Vous devrez aussi configurer potentiellement une base de données avec RDS et exposer vos logs dans CloudWatch.
 * Le code client (JS, CSS) devrait tout de même être déployé dans Amazon S3, et le fichier index.html devrait simplement pointer dessus.
 
 Le lien de l'application Beanstalk devra être inclus dans le README de la branche de release. Le site *ne devra aucunement être modifié* après la date de remise. Il est donc recommendé de vous faire 2 environnments Beanstalk (development/production) afin de ne pas interférer.
