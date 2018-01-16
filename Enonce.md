@@ -12,22 +12,22 @@ Le livrable 1 ne consiste qu'en développement de la partie client de l'applicat
 
 Les fonctionnalités suivantes devront être implémentées:
 * L'usager doit pouvoir consulter son profil usager.
- * Photo de profil
- * Nom d'usager
- * Prénom/Nom
- * Email
- * Numéro de téléphone
- * Date d'inscription
+  * Photo de profil
+  * Nom d'usager
+  * Prénom/Nom
+  * Email
+  * Numéro de téléphone
+  * Date d'inscription
 * L’usager doit pouvoir éditer son profil usager.
- * Prénom/Nom
- * Email
- * Numéro de téléphone
+  * Prénom/Nom
+  * Email
+  * Numéro de téléphone
 * L'usager doit pouvoir consulter la liste des usagers.
 * L'usager doit pouvoir consulter le profil d'un usager ainsi que ses images.
 * L'usager doit pouvoir téléverser une image avec les champs suivants.
- * Description
- * Mots clés (hashtags)
- * Mention d'un usager
+  * Description
+  * Mots clés (hashtags)
+  * Mention d'un usager
 * L'usager doit pouvoir modifier les champs d'une de ses images.
 * L'usager doit pouvoir supprimer une de ses images.
 * L'usager doit pouvoir consulter ses images.
