@@ -69,7 +69,7 @@ Les fonctionnalités suivantes sont aux choix des étudiants. Chaque fonctionnal
 * (5) L'usager doit pouvoir rechercher par mot clé ou description avec autocomplétion
 * (8) L'usager doit pouvoir discuter en temps réel avec un autre usager
 * (8) L'usager doit pouvoir se faire recommander les comptes d'usager les plus populaires
-* (10) L'usager doit pouvoir se faire recommander des compes d'usager basés sur ses intérêts
+* (10) L'usager doit pouvoir se faire recommander des comptes d'usager basés sur ses intérêts
 * (10) L'usager doit pouvoir être intégrée avec un autre fournisseur de photos (Google Photos..)
 * (5) L'usager doit pouvoir consulter les mots-clés les plus populaires
 * (5) L'usager doit pouvoir appliquer des filtres sur ses photos lors du téléversement
