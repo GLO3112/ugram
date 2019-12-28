@@ -1,6 +1,6 @@
 # ugram
 
-ugram est le dépôt contenant toutes les ressources nécessaires à la réalisation du projet de session du cours Développment d'applications web avancé. Le projet est réalisé en équipe de 4 à 6 et comporte 3 livrables. Les étudiants auront à réaliser le frontend et le backend de l'application. Tout le code et l'application devront être réalisé en anglais.
+ugram est le dépôt contenant toutes les ressources nécessaires à la réalisation du projet de session du cours Développment d'applications web avancé. Le projet est réalisé en équipe de 4 à 6 et comporte 3 livrables. Les étudiants auront à réaliser le frontend et le backend de l'application.
 
 Il est bien important de lire les pages suivantes:
 
