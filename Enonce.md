@@ -2,13 +2,13 @@
 
 Le projet de session consiste à développer une application web similaire à [Instagram](https://www.instagram.com).  Les étudiants devront développer les parties client ET serveur de l'application. Il est très important pour les étudiants de lire les sections [Remises](https://github.com/GLO3112/ugram/blob/master/Remises.md) et [Grille de correction](https://docs.google.com/spreadsheets/d/1C52Qwlf5l4wu_2_SGlAbJ6PKlXMl4jJfihJuSchRRSM). Les remises seront passablement différentes des autres cours!
 
-Le projet doit être fait en équipe de 4 à 6 étudiants. L’équipe doit utiliser les dépôts GitHub et les _starter packs_ fournis par les enseignants. L'application doit être réalisée en *anglais*. 
+Le projet doit être fait en équipe de 4 à 6 étudiants. L’équipe doit utiliser les dépôts GitHub fournis par les enseignants. L'application doit être réalisée en *anglais*. 
 
 Voir dates de remise sur le portail des cours.
 
 ## Livrable 1
 
-Le livrable 1 ne consiste qu'en développement de la partie client de l'application. Il devra utiliser l'API fournie par les enseignants. La documentation de l'API sera fournie, mais pas le code. Afin de créer un usager, les étudiants pourront utiliser l'API fournie. La partie client devra être développée en TypeScript. 
+Le livrable 1 consiste au développement des bases de l'application.
 
 Les fonctionnalités suivantes devront être implémentées:
 * L'usager doit pouvoir consulter son profil usager.
@@ -36,9 +36,7 @@ Les fonctionnalités suivantes devront être implémentées:
 
 ## Livrable 2
 
-Le livrable 2 consiste au développement de la partie client ET de la partie serveur de l'application, ainsi que quelques fonctionnalités supplémentaires. L'API développée devra _en tout point_ respecter celles offertes par les enseignants au livrable 1 (les enseignants devraient pouvoir prendre le livrable 1 et le mettre sur votre API sans aucune modification). La partie serveur peut être développée en Java ou NodeJS, au choix.
-
-**Note**: À partir du livrable 2, les opérations d'édition ne devraient pas être permises pour un usager n'ayant pas les droits requis (Ne pas supprimer une image d'un autre usager, par exemple...)
+Le livrable 2 consiste au développement de la partie client ET de la partie serveur de l'application, ainsi que quelques fonctionnalités supplémentaires.
 
 En addition des fonctionnalités du livrable 1, les fonctionnalités suivantes devront être implémentées:
 
@@ -50,11 +48,15 @@ En addition des fonctionnalités du livrable 1, les fonctionnalités suivantes d
 * L'usager doit pouvoir rechercher pour des images contenant un mot précis dans leur description.
 * L'usager doit pouvoir rechercher pour des images contenant un mot clé (hashtag) précis.
 
+Des points seront également attribués pour:
+* Le déploiement automatisé de l'application
+* La gestion des privilèges sur les opérations d'édition (Ne pas supprimer une image d'un autre usager, par exemple...)
+
 ## Livrable 3
 
-Le livrable 3 consiste au développement de la partie client ET de la partie serveur de l'application.
+Le livrable 3 consiste au développement de la partie client ET de la partie serveur de l'application, ainsi que quelques fonctionnalités supplémentaires.
 
-Les fonctionnalités suivantes devront être implémentées:
+En addition des fonctionnalités du livrable 2, les fonctionnalités suivantes devront être implémentées:
 
 * L'usager doit pouvoir réagir aux images d'un autre usager.
 * L'usager doit pouvoir commenter les images d'un autre usager.
@@ -75,6 +77,12 @@ Les fonctionnalités suivantes sont aux choix des étudiants. Chaque fonctionnal
 * (5) L'usager doit pouvoir appliquer des filtres sur ses photos lors du téléversement
 * (5) L'usager doit pouvoir dessiner sur la photo lors du téléversement
 * (5) L'usager doit pouvoir prendre une photo avec sa webcam
+
+En plus des points mentionnés au livrable 2, des points seront également attribués pour:
+* Le monitoring de l'application
+* Les métriques de l'application
+* La sécurité de l'application
+* La documentation dynamique de l'application
 
 Encore une fois, consultez la section [Remises](https://github.com/GLO3112/ugram/blob/master/Remises.md) ! Bonne chance.
 
