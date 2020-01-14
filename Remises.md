@@ -31,7 +31,7 @@ Le livrable 1 consiste en une remise de client et serveur, sans déploiement pou
 
 Puisque l'application n'est pas encore déployée, les étudiants devront fournir un **docker compose** contenant l'application et toutes ses dépendances (base de donnée, notamment). Les correcteurs ne devraient qu'avoir à rouler docker pour faire fonctionner l'application. Toute manipulation supplémentaire entrainera de fortes pénalités.
 
-Les instructions pour rouler l'application devront être incluses dans le README de la branche de release. L'application *ne devra aucunement être modifié* après la date de remise.
+Les instructions pour rouler l'application devront être incluses dans le README de la branche de release. L'application *ne devra aucunement être modifiée* après la date de remise.
 
 ## Livrable 2
 
