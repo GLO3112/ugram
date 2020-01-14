@@ -63,7 +63,6 @@ En addition des fonctionnalités du livrable 2, les fonctionnalités suivantes d
 * L'usager doit pouvoir consulter les réactions et commentaires sur l'une de ses images.
 * L'usager doit pouvoir recevoir des notifications lorsqu'un usager réagit ou commente sur l'une de ses images.
 * L’application doit gérer le _resizing_ des images téléchargées et offrir les images en différents formats.
-* L'application doit produire des analytiques sur le comportement de ses usagers.
 
 Les fonctionnalités suivantes sont aux choix des étudiants. Chaque fonctionnalité possède un nombre de points associé, et l'équipe doit implémenter au minimum **15** points. La fonctionnalité doit être complète et fonctionnelle afin de recevoir le nombre de points associé, assurez-vous de choisir judicieusement...
 
