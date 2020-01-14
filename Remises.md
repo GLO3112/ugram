@@ -18,6 +18,7 @@ Le livrable 0, également appellé _design_ sur le portail des cours, consiste e
 * Frameworks choisis pour le frontend
 * Langage choisi pour le backend
 * Frameworks choisis pour le backend: framework REST, ORM, logging, etc.
+* Base de données choisie
 * CI/CD choisi
 * Méthode de déploiment si différente de celle proposée plus bas (si vous n'êtes pas certain, simplement mentionner que le déploiment suivra les méthodes démontrées dans le cours)
 * Tout autre information pertinente à l'architecture si désirée
