@@ -20,7 +20,7 @@ Le livrable 0, également appellé _design_ sur le portail des cours, consiste e
 * Frameworks choisis pour le backend: framework REST, ORM, logging, etc.
 * Base de données choisie
 * CI/CD choisi
-* Méthode de déploiment si différente de celle proposée plus bas (si vous n'êtes pas certain, simplement mentionner que le déploiment suivra les méthodes démontrées dans le cours)
+* Méthode de déploiement si différente de celle proposée plus bas (si vous n'êtes pas certain, simplement mentionner que le déploiement suivra les méthodes démontrées dans le cours)
 * Tout autre information pertinente à l'architecture si désirée
 
 Le but du livrable 0 est simplement que l'enseignant s'assure que les équipes soient sur le bon chemin pour la réalisation du projet.
@@ -43,6 +43,14 @@ Il existe plusieurs possibilités de remise, mais la méthode proposée en est u
 * Le serveur devrait être déployé dans Amazon Elastic Beanstalk. Voir instructions et exemples [ici](https://aws.amazon.com/documentation/elastic-beanstalk/).
 
 Le lien de l'application (lien S3 ou Cloudfront) devra être inclus dans le README de la branche de release. Le site *ne devra aucunement être modifié* après la date de remise. Il est donc recommendé de vous faire 2 environnements AWS afin de ne pas interférer.
+
+## Review intermédiaire
+
+Vous trouverez sur le portail des cours un livrable nommé *review intermédiaire*, situé entre les livrables 2 et 3.
+Il s'agit simplement d'une plage horaire qui sera attribuée à votre équipe afin de discuter de votre travail avec le correcteur.
+Au minimum un membre de l'équipe doit être présent durant la plage attributée.
+
+De plus amples informations seront données par l'enseignant au courant de la session.
 
 
 ## Livrable 3
