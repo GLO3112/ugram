@@ -14,11 +14,22 @@ Chaque équipe devra posséder un compte AWS Free. Voir les détails [ici](https
 
 ## Développement
 
-Les étudiants devront développer le frontend de l'application en _TypeScript_. Le backend peut être développé dans le langage de préférence de l'équipe, quoique _NodeJs_ ou _Java_ sont fortement suggérés. Les étudiants sont invités à se procurer [WebStorm](https://www.jetbrains.com/webstorm/) ainsi que [Eclipse](http://www.eclipse.org/downloads) ou [IntelliJ](https://www.jetbrains.com/idea) pour le développement _Java_. Les étudiants auront des dépôts Git fournis pour leurs projets.
+Les étudiants auront des dépôts Git fournis pour leurs projets.
+Si votre équipe désire avoir plusieurs dépôts, svp envoyez un courrier à l'enseignant au début de la session.
+
+## Frontend
 
 Pour le frontend, les technos suivantes *doivent* être utilisées:
 * [TypeScript](https://www.typescriptlang.org/)
 * [SASS](http://sass-lang.com/) ou [LESS](http://lesscss.org/) ou [PostCSS](http://postcss.org/)
-* [Webpack](https://webpack.github.io/)
 
-Pour le backend, les technologies sont un peu plus libres mais doivent s'intégrer avec AWS si applicable.
+Le framework est laissé au choix de l'équipe (React, Vue, Angular, Svelte etc.)
+
+## Backend
+
+Le backend peut être développé dans le langage de préférence de l'équipe, quoique _NodeJs_ ou _Java_ sont fortement suggérés.
+La technologie choisie doit s'intégrer avec AWS si applicable.
+
+Certaines restrictions s'appliquent:
+* L'utilisation de PHP est **interdite**.
+* L'utilisation de technologies fonctionnent exclusivement sur Windows est **interdite**.
