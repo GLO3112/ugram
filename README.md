@@ -21,7 +21,7 @@ Si votre équipe désire avoir plusieurs dépôts, svp envoyez un courrier à l'
 
 Pour le frontend, les technos suivantes *doivent* être utilisées:
 * [TypeScript](https://www.typescriptlang.org/)
-* [SASS](http://sass-lang.com/) ou [LESS](http://lesscss.org/) ou [PostCSS](http://postcss.org/)
+* [SASS](http://sass-lang.com/) ou [LESS](http://lesscss.org/) ou [PostCSS](http://postcss.org/) ou [Stylus](https://stylus-lang.com/)
 
 Le framework est laissé au choix de l'équipe (React, Vue, Angular, Svelte etc.)
 
