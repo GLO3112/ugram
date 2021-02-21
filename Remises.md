@@ -9,18 +9,18 @@ Pour chaque livrable, les équipes devront suivre la procédure suivante:
 * Le code du client devra être _compressé_ et _minifié_.
 * Respecter les spécificités listées plus bas.
 
-La branche **ne doit plus être touchée** une fois la date de remise passée. Une modification de la branche après la date de remise peut entraîner de fortes pénalités. Les correcteurs utiliserons le code directement sur GitHub.
+La branche **ne doit plus être touchée** une fois la date de remise passée. Une modification de la branche après la date de remise peut entraîner de fortes pénalités. Les correcteurs utiliseront le code directement sur GitHub.
 
 ## Livrable 0
 
-Le livrable 0, également appellé _design_ sur le portail des cours, consiste en un simple document décrivant l'architecture de votre projet et les technologies que vous désirez utiliser. Ce document devrait être écrit à même le README du dépôt GitHub, et comprendre les éléments suivants:
+Le livrable 0, également appelé _design_ sur le portail des cours, consiste en un simple document décrivant l'architecture de votre projet et les technologies que vous désirez utiliser. Ce document devrait être écrit à même le README du dépôt GitHub, et comprendre les éléments suivants:
 
 * Frameworks choisis pour le frontend
 * Langage choisi pour le backend
 * Frameworks choisis pour le backend: framework REST, ORM, logging, etc.
 * Base de données choisie
 * CI/CD choisi
-* Méthode de déploiement si différente de celle proposée plus bas (si vous n'êtes pas certain, simplement mentionner que le déploiement suivra les méthodes démontrées dans le cours)
+* Méthode de déploiement si différente de celle proposée plus bas (si vous n'êtes pas certains, simplement mentionner que le déploiement suivra les méthodes démontrées dans le cours)
 * Tout autre information pertinente à l'architecture si désirée
 
 Le but du livrable 0 est simplement que l'enseignant s'assure que les équipes soient sur le bon chemin pour la réalisation du projet.
@@ -48,7 +48,7 @@ Le lien de l'application (lien S3 ou Cloudfront) devra être inclus dans le READ
 
 Vous trouverez sur le portail des cours un livrable nommé *review intermédiaire*, situé entre les livrables 2 et 3.
 Il s'agit simplement d'une plage horaire qui sera attribuée à votre équipe afin de discuter de votre travail avec le correcteur.
-Au minimum un membre de l'équipe doit être présent durant la plage attributée.
+Au minimum un membre de l'équipe doit être présent durant la plage attribuée.
 
 De plus amples informations seront données par l'enseignant au courant de la session.
 
@@ -57,6 +57,6 @@ De plus amples informations seront données par l'enseignant au courant de la se
 
 Le livrable 3 consiste en une remise de client et serveur.
 
-La remise est sensiblement identique au livrable 2. Par contre, dans le README, vous devrez également expliquer la stratégie/les outils de _monitoring_ que vous employez pour votre application. Vous devrez également indiquer quelles fonctionnalités additionnelles vous avez choisi et le fonctionnement de leur implémentation respective.
+La remise est sensiblement identique au livrable 2. Par contre, dans le README, vous devrez également expliquer la stratégie/les outils de _monitoring_ que vous employez pour votre application. Vous devrez également indiquer quelles fonctionnalités additionnelles vous avez choisi et le fonctionnement de leurs implémentations respectives.
 
 Le lien de l'application (lien S3 ou Cloudfront) devra être inclus dans le README de la branche de release. Le site *ne devra aucunement être modifié* après la date de remise. Il est donc recommendé de vous faire 2 environnements AWS afin de ne pas interférer.
