@@ -6,7 +6,6 @@ Pour chaque livrable, les équipes devront suivre la procédure suivante:
 
 * Créer une branche nommée release-X (où X est le numéro du livrable) dans le dépôt GitHub.
 * Fournir un README du livrable avec les instructions pour les correcteurs.
-* Le code du client devra être _compressé_ et _minifié_.
 * Respecter les spécificités listées plus bas.
 
 La branche **ne doit plus être touchée** une fois la date de remise passée. Une modification de la branche après la date de remise peut entraîner de fortes pénalités. Les correcteurs utiliseront le code directement sur GitHub.
