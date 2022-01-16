@@ -19,10 +19,8 @@ Si votre équipe désire avoir plusieurs dépôts, svp envoyez un courrier à l'
 
 ## Frontend
 
-Pour le frontend, les technos suivantes *doivent* être utilisées:
-* [TypeScript](https://www.typescriptlang.org/)
-
-Le framework JavaScript est laissé au choix de l'équipe (React, Vue, Angular, Svelte etc.), comme le framework CSS (Tailwind, Bulma etc.)
+L'utilisation de **TypeScript** est obligatoire pour le projet.
+Le framework JavaScript est laissé au choix de l'équipe (React, Vue, Angular, Svelte etc.) tout comme le framework CSS (Tailwind, Bulma etc.).
 
 ## Backend
 
