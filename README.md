@@ -30,3 +30,5 @@ La technologie choisie doit s'intégrer avec AWS si applicable.
 Certaines restrictions s'appliquent:
 * L'utilisation de PHP est **interdite**.
 * L'utilisation de technologies fonctionnent exclusivement sur Windows est **interdite**.
+
+Notez que les frameworks de SSR telles que Next ou Nuxt sont également permis.
