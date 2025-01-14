@@ -41,7 +41,7 @@ Il existe plusieurs possibilités de remise, mais la méthode proposée en est u
 * L'entièreté du code frontend devrait être déployé dans Amazon S3 sous forme de site statique. Voir la [documentation suivante](http://docs.aws.amazon.com/AmazonS3/latest/dev/WebsiteHosting.html) pour la procédure et [cette documentation](http://docs.aws.amazon.com/AmazonS3/latest/dev/HostingWebsiteOnS3Setup.html) pour un exemple détaillé.
 * Le serveur devrait être déployé dans Amazon Elastic Beanstalk. Voir instructions et exemples [ici](https://aws.amazon.com/documentation/elastic-beanstalk/).
 
-Le lien de l'application (lien S3 ou Cloudfront) devra être inclus dans le README de la branche de release. Le site *ne devra aucunement être modifié* après la date de remise. Il est donc recommendé de vous faire 2 environnements AWS afin de ne pas interférer.
+Le lien de l'application (lien S3 ou Cloudfront) devra être inclus dans le README de la branche de release. Le site *ne devra aucunement être modifié* après la date de remise. Il est donc recommandé de vous faire 2 environnements AWS afin de ne pas interférer.
 
 ## Review intermédiaire
 
